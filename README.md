@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # hera
 
 👩🏼‍💻 Simple and lightweight GraphQL client.
